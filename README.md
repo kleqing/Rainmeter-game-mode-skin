@@ -12,11 +12,11 @@
 
 * Attention:
 
-		<details>
-			<sumary>This skins only change 2 layout</sumary>
-				<br>
-				Although this skins will create a button allow you to change between layout faster but I created this for gaming only. That also mean it can change 1 layout for one *.ini file (Total 2 files: On and Off).
-		</details>
+	<details>
+		<sumary>This skins only change 2 layout</sumary>
+			<br>
+			Although this skins will create a button allow you to change between layout faster but I created this for gaming only. That also mean it can change 1 layout for one *.ini file (Total 2 files: On and Off).
+	</details>
 
 > After install this skin, set up your skins first.
 >
@@ -36,29 +36,29 @@
 
 * This is some questions that you might want to ask!ư
 
-		<details>
-				<sumary>Q: Can I change the icon?</sumary>
-				<br>
-				A: You can chang the icon via @Resources folder. Also if you want to change to other layout (Not for gaming), just open the *.ini file and head to 'LeftMouseUpAction' and change the layout to your layout (e.g: Change the 'Gaming' to 'Best layout')
-		</details>
+	<details>
+			<sumary>Q: Can I change the icon?</sumary>
+			<br>
+			A: You can chang the icon via @Resources folder. Also if you want to change to other layout (Not for gaming), just open the *.ini file and head to 'LeftMouseUpAction' and change the layout to your layout (e.g: Change the 'Gaming' to 'Best layout')
+	</details>
 
-		<details>
-				<sumary>Q: I don't want to use layout named 'Gaming' or 'Default', can I change it to other name or I force to use that name?</sumary>
-				<br>
-				A: You can chang the name of your layout in rainmeter first. Then you can open the .ini file. Head to 'LeftMouseUpAction' and you will see the layout named. ('Gaming' or 'Default' base on your file you open). All you have to do is just rename that layout named you had set!
-		</details>
+	<details>
+			<sumary>Q: I don't want to use layout named 'Gaming' or 'Default', can I change it to other name or I force to use that name?</sumary>
+			<br>
+			A: You can chang the name of your layout in rainmeter first. Then you can open the .ini file. Head to 'LeftMouseUpAction' and you will see the layout named. ('Gaming' or 'Default' base on your file you open). All you have to do is just rename that layout named you had set!
+	</details>
 
-		<details>
-				<sumary>Q: Why don't you created a button that can changed multiple layout?</sumary>
-				<br>
-				A: Actually, this skins was based from [Sonder](https://github.com/mpurses/Sonder) for the background icon and [Quick change multiple layout using button](https://forum.rainmeter.net/viewtopic.php?t=16838). I can created more but I think it is not necessary because many people only use 1 layout for their skin. Also I think that it's very hard to create a skins which can changed more than 2 layout (I can do it but it's UI problem).
-		</details>
+	<details>
+			<sumary>Q: Why don't you created a button that can changed multiple layout?</sumary>
+			<br>
+			A: Actually, this skins was based from [Sonder](https://github.com/mpurses/Sonder) for the background icon and [Quick change multiple layout using button](https://forum.rainmeter.net/viewtopic.php?t=16838). I can created more but I think it is not necessary because many people only use 1 layout for their skin. Also I think that it's very hard to create a skins which can changed more than 2 layout (I can do it but it's UI problem).
+	</details>
 
-		<details>
-				<sumary>Q: But I have more than 2 layout, and I did not focus too much about the UI. How can I create a skin which can change layout quickly?</sumary>
-				<br>
-				A: You can check [here](https://forum.rainmeter.net/viewtopic.php?t=18937#p102376) if you want!
-		</details>
+	<details>
+			<sumary>Q: But I have more than 2 layout, and I did not focus too much about the UI. How can I create a skin which can change layout quickly?</sumary>
+			<br>
+			A: You can check [here](https://forum.rainmeter.net/viewtopic.php?t=18937#p102376) if you want!
+	</details>
 
 ## License
 
