@@ -10,11 +10,12 @@
 
 ## Installation
 
-<details>
+* Attention
+	<details>
 		<sumary>This skins only change 2 layout</sumary>
-		<br>
-		Although this skins will create a button allow you to change between layout faster but I created this for gaming only. That also mean it can change 1 layout for one *.ini file (Total 2 files: On and Off).
-</details>
+			<br>
+			Although this skins will create a button allow you to change between layout faster but I created this for gaming only. That also mean it can change 1 layout for one *.ini file (Total 2 files: On and Off).
+	</details>
 
 > After install this skin, set up your skins first.
 >
@@ -32,6 +33,7 @@
 
 ## Q&A
 
+* This is some questions that you might want to ask!
 <details>
 		<sumary>Q: Can I change the icon?</sumary>
 		<br>
