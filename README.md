@@ -64,7 +64,7 @@
 	</details>
 
 	![img](./img/changelayoutname.png)
-	<h6 algin="center">Change layout name in *.ini file/h6>
+	<h6 algin="center">Change layout name in *.ini file</h6>
 
 ## License
 
