@@ -1,6 +1,6 @@
 # Rainmeter game mode button
 
-![img](./img/gamemodebtn.png)
+![img](./img/logo.png)
 
 ## What is this?
 
@@ -24,7 +24,8 @@
 >
 > Name your layout (E.g: Default) and save it
 >
-> After saved your first layout, tick check box '' and name your new layout again (E.g: Gaming) and save it!
+> After saved your first layout, tick check box 'Save as empty layout' and name your new layout again (E.g: Gaming) and save it!
+[]
 >
 > Apply the second layout that you had made (Gaming layout)
 >
@@ -57,7 +58,7 @@
 	<details>
 			<summary>Q: But I have more than 2 layout, and I did not focus too much about the UI. How can I create a skin which can change layout quickly?</summary>
 			<br>
-			A: You can check [here](https://forum.rainmeter.net/viewtopic.php?t=18937#p102376) if you want!
+			A: You can check [here](https://forum.rainmeter.net/viewtopic.php?t=18937#p102376) for more information.
 	</details>
 
 ## License
