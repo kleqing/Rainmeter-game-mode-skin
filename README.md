@@ -42,7 +42,7 @@
 	<details>
 			<summary>Q: Can I change the icon?</summary>
 			<br>
-			A: You can chang the icon via @Resources folder.
+			A: You can change the icon via @Resources folder.
 	</details>
 
 	<details>
