@@ -42,7 +42,7 @@
 	<details>
 			<summary>Q: Can I change the icon?</summary>
 			<br>
-			A: You can chang the icon via @Resources folder. Also if you want to change to other layout (Not for gaming), just open the *.ini file and head to 'LeftMouseUpAction' and change the layout to your layout (e.g: Change the 'Gaming' to 'Best layout')
+			A: You can chang the icon via @Resources folder.
 	</details>
 
 	<details>
