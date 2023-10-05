@@ -37,7 +37,7 @@
 ![img](./img/layout.png)
 ## Q&A
 
-* This is some questions that you might want to ask!ư
+* This is some questions that you might want to ask!
 
 	<details>
 			<summary>Q: Can I change the icon?</summary>
